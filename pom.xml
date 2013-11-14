@@ -4,7 +4,7 @@
 
   <groupId>com.portletguru</groupId>
   <artifactId>portlettester-sample</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <packaging>jar</packaging>
 
   <name>portlettester-sample</name>
@@ -44,7 +44,7 @@
     <dependency>
     	<groupId>com.portletguru</groupId>
     	<artifactId>portlettester</artifactId>
-    	<version>[0,)</version>
+    	<version>0.1</version>
     </dependency>
     <dependency>
     	<groupId>org.codehaus.jackson</groupId>
